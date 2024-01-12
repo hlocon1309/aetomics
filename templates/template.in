@@ -1,0 +1,33 @@
+## 3d Lennard-Jones melt
+
+#units		'param_pattern'
+#atom_style	'param_pattern'
+
+#lattice	'param_pattern'
+#region		'param_pattern'
+#create_box	'param_pattern'
+#create_atoms	'param_pattern'
+#mass		'param_pattern'
+
+#velocity	'param_pattern'
+
+#pair_style	'param_pattern'
+#pair_coeff	'param_pattern'
+
+#neighbor	'param_pattern'
+#neigh_modify	'param_pattern'
+
+#fix		'param_pattern'
+
+#dump		'param_pattern'
+
+#dump		'param_pattern'
+
+#dump_modify	'param_pattern'
+
+#dump		'param_pattern'
+
+#dump_modify	'param_pattern'
+
+#thermo		'param_pattern'
+#run		'param_pattern'

@@ -1,0 +1,14 @@
+-> template
+
+--> first line leave as a comment(for title or description) but with an extra #
+---> ## 3d Lennard-Jones melt
+
+--> space lines don't matter
+
+--> command lines have the structure:
+--> # 'command' + 'space/tab' + 'param_pattern' (param_pattern is unique for every paramter)
+---> #units         'param_pattern'
+---> #atom_style    'param_pattern'
+
+--> comment lines needs a extra #
+---> ## 'text for comment'

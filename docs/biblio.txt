@@ -1,0 +1,81 @@
+Thesis
+
+-------------------------------------------------------
+
+chalk
+
+google: python import chalk
+https://pypi.org/project/simple-chalk/
+
+-------------------------------------------------------
+
+requirements.txt
+
+google: python requirements.txt
+https://www.freecodecamp.org/news/python-requirementstxt-explained/
+
+--------------------------------------------------------
+
+openFF evaluator
+
+https://github.com/openforcefield/openff-evaluator
+
+--------------------------------------------------------
+
+script on windows
+
+google: make autimatic installer script on windows
+https://community.spiceworks.com/topic/2152326-i-want-t-write-a-script-for-automating-installation
+
+
+-------------------------------------------------------
+
+virtual env
+
+google: how to create a virtual environment from setup.py
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
+
+google: how to create a virtual environment in python
+https://realpython.com/python-virtual-environments-a-primer/
+
+-------------------------------------------------------
+
+setup file
+
+google: how to create a setup.py file
+https://pythonforthelab.com/blog/how-create-setup-file-your-project/
+
+-------------------------------------------------------
+
+requirements.txt
+
+google: python how to check preliminary requirments
+https://stackoverflow.com/questions/65261513/how-to-check-requirements-and-generate-a-requirements-txt-file
+https://pypi.org/project/pip-check-reqs/
+
+-------------------------------------------------------
+
+LAMMPS
+
+https://github.com/lammps/lammps
+
+google: lammps parameters
+https://www.ctcms.nist.gov/potentials/iprPy/calculation/elastic_constants_static/parameters.html
+
+google: lammps input file parameters
+https://guriang.unpad.ac.id/lammpsdoc/Commands_parse.html
+
+
+-in.melt
+
+https://github.com/lammps/lammps/blob/develop/examples/melt/in.melt
+
+https://c4science.ch/source/lammps/browse/lammps-icms/examples/melt/in.melt;b704a82dafc56fb87e8edd1b80d621703f397528
+
+-------------------------------------------------------
+
+argparce
+
+https://docs.python.org/3/library/argparse.html
+
+google: parser in python
