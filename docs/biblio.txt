@@ -65,6 +65,12 @@ https://www.ctcms.nist.gov/potentials/iprPy/calculation/elastic_constants_static
 google: lammps input file parameters
 https://guriang.unpad.ac.id/lammpsdoc/Commands_parse.html
 
+google: lammps commands
+https://gensoft.pasteur.fr/docs/lammps/2016.11.17/html/Section_commands.html
+
+google: lammps input file parameters
+
+https://github.com/lammps/lammps
 
 -in.melt
 
