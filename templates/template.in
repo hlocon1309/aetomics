@@ -19,15 +19,15 @@
 
 #fix		'param_pattern'
 
-#dump		'param_pattern'
+##dump		'param_pattern'
 
-#dump		'param_pattern'
+##dump		'param_pattern'
 
-#dump_modify	'param_pattern'
+##dump_modify	'param_pattern'
 
-#dump		'param_pattern'
+##dump		'param_pattern'
 
-#dump_modify	'param_pattern'
+##dump_modify	'param_pattern'
 
 #thermo		'param_pattern'
 #run		'param_pattern'
